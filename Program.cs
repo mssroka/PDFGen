@@ -23,7 +23,6 @@ public class MainForm : Form
     private TextBox outputDirectoryTextBox;
     private Button generateButton;
 
-    // Ścieżka do szablonu PDF w katalogu wyjściowym
     private static readonly string PdfTemplateFileName = "Template.pdf";
 
     public MainForm()
